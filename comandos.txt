@@ -1,0 +1,10 @@
+npm init -y
+
+npm install react react-dom next @chec/commerce.js
+
+npm run dev
+
+.env key pública para teste
+NEXT_PUBLIC_CHEC_PUBLIC_API_KEY=pk_184625ed86f36703d7d233bcf6d519a4f9398f20048ec
+
+Para criar key privada acesse: https://commercejs.com/
